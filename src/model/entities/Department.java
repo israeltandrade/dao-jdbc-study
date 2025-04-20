@@ -9,6 +9,7 @@ public class Department implements Serializable {
 	// sequence of bytes. In Java it is necessary for the object to be transfered
 	// in file or network:
 	private static final long serialVersionUID = 1L;
+	
 	private Integer id;
 	private String name;
 	
